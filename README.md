@@ -1,7 +1,7 @@
 # Task 10
 Complete Withdrawal Process By Unlocking The Funds
 1.Screenshot of console immediately after executing unlock command
-![GOOD](./1629178386026.png)
+![](./1629178386026.png)
 
 2.Ethereum address Used
 0xE95117ae8A81f97126718dD0cF018d3946494e56
